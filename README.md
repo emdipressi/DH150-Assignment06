@@ -59,3 +59,6 @@ After a better explanation of the wireflow, the user got the hang of it. The use
 ## Reflection 
 
 To begin, next time I will properly explain what the wireframe/wireflow is to the tester. After being in a class and learning about these things, they come to be basic knowledge and I forget that before this class I did not know what many of these things were and that my user is currently is this frame of mind as well. I think it might also be better to write things larger. I struggled with how large to make the writing and what I should include as something that gets written out vs. something that gets squiggled for the sake of space in a small “frame”. I also think a feature that highlights or changes the text color of the heading the user clicks on would be a good idea to have to indicate to the user where they are in the website. I am also not sure if the issues that arose were from the task not being clear or the webpage design not being clear. For future projects it would be good to do this more times to get a clearer answer on this. 
+
+
+* Though it may seem menial, the home button does not take the user back to the home page, but goes back one page, like a back arrow. It was important to show that the home button would take the user back to the original home page.
