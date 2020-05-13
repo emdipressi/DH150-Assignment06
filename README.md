@@ -15,3 +15,5 @@ The three scenarios chosen for this task are:
 2. Checking to see the status of drought in her area.
 3. Checking to see if her area is in a wildfire watch or warning. 
 * all tasks ended with the ability to navigate back home as well. 
+
+## Task 1
