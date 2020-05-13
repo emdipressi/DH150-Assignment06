@@ -30,7 +30,7 @@ The purpose of this task is to navigate from the home page to find the hourly we
 
 **_User Comments_**
 
-The user was slightly confused doing this task. They wanted to skip screens and go to the final page. The user commented in orange: “do I go through this to get to [hourly weather forecast]?” The flow of the website, I think, was confusing to the user. The font sizes would be larger and clearer, because I think my user skipped over the “Hourly Forecast” section to click on to find the page with that information. 
+The user was slightly confused doing this task. They wanted to skip screens and go to the final page. The user commented in orange: “do I go through this to get to [hourly weather forecast]?” The flow of the website, I think, was confusing to the user. The font sizes would be larger and clearer, because I think my user skipped over the “Hourly Forecast” section to click on to find the page with that information. The user was able to successfully complete the task. 
 
 ## Task 2
 
@@ -42,7 +42,7 @@ The second task was to check wildfire watch and warning in the US and to see if 
 
 **_User Comments_**
 
-In the wire flow the user worked backwards to figure out how to get to the end page. I ended up having to explain more simply and clearly how the task worked, going from each page that users have to navigate through to get to the end page. For this task the user had to navigate through “Safety” so I think it might be a good idea in the future to have “Safety” on the top bar change text color or have the background highlighted so the user knows where they are in the website. 
+In the wire flow the user worked backwards to figure out how to get to the end page. I ended up having to explain more simply and clearly how the task worked, going from each page that users have to navigate through to get to the end page. For this task the user had to navigate through “Safety” so I think it might be a good idea in the future to have “Safety” on the top bar change text color or have the background highlighted so the user knows where they are in the website. The user was able to successfully complete the task.
 
 ## Task 3
 
@@ -54,4 +54,8 @@ Task 3 is to find the drought status for the users area of choice. As it is now,
 
 **_User Comments_**
 
-After a better explanation of the wireflow, the user got the hang of it. The user still was not sure which page came first though. The user commented “not sure which page comes first” in green. I do not know if this is confusion from the task of having different page drawings or if the usability sequence is off. This made it kind of confusing for the user. Also, the user commented and thinks the placement of the drought widget should be located at the top of the page and not at the bottom.  
+After a better explanation of the wireflow, the user got the hang of it. The user still was not sure which page came first though. The user commented “not sure which page comes first” in green. I do not know if this is confusion from the task of having different page drawings or if the usability sequence is off. This made it kind of confusing for the user. Also, the user commented and thinks the placement of the drought widget should be located at the top of the page and not at the bottom. The user was able to successfully complete the task.
+
+## Reflection 
+
+To begin, next time I will properly explain what the wireframe/wireflow is to the tester. After being in a class and learning about these things, they come to be basic knowledge and I forget that before this class I did not know what many of these things were and that my user is currently is this frame of mind as well. I think it might also be better to write things larger. I struggled with how large to make the writing and what I should include as something that gets written out vs. something that gets squiggled for the sake of space in a small “frame”. I also think a feature that highlights or changes the text color of the heading the user clicks on would be a good idea to have to indicate to the user where they are in the website. I am also not sure if the issues that arose were from the task not being clear or the webpage design not being clear. For future projects it would be good to do this more times to get a clearer answer on this. 
