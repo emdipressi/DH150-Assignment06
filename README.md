@@ -36,14 +36,22 @@ The user was slightly confused doing this task. They wanted to skip screens and 
 
 **_Wildfires_**
 
+The second task was to check wildfire watch and warning in the US and to see if an area of concern was under either of these. The issue with this function is that the map that comes up with highlighted areas did not have a key to be able to distinguish the colors. Also the map is fixed, so the user only sees the area that is zoomed in on, rather than a whole United States map in which the user can zoom in and out of different areas. 
+
 ![flow2](flow2.png)
 
 **_User Comments_**
+
+In the wire flow the user worked backwards to figure out how to get to the end page. I ended up having to explain more simply and clearly how the task worked, going from each page that users have to navigate through to get to the end page. For this task the user had to navigate through “Safety” so I think it might be a good idea in the future to have “Safety” on the top bar change text color or have the background highlighted so the user knows where they are in the website. 
 
 ## Task 3
 
 **_Drought_**
 
+Task 3 is to find the drought status for the users area of choice. As it is now, to find this the user has to navigate to resources on the side and click on “US Drought Monitor” this then takes the user out of the weather.gov page and to drought.gov. I think this can be confusing to the user because now they are on a different website that they did not go to and the functions do not work the same. I think that it would be better to have a widget from drought.gov in the weather.gov page that the user can input their information and get a simpler answer. If the user wants more detailed info, that is when they can go to the drought.gov page in “Resources”. 
+
 ![flow3](flow3.png)
 
 **_User Comments_**
+
+After a better explanation of the wireflow, the user got the hang of it. The user still was not sure which page came first though. The user commented “not sure which page comes first” in green. I do not know if this is confusion from the task of having different page drawings or if the usability sequence is off. This made it kind of confusing for the user. Also, the user commented and thinks the placement of the drought widget should be located at the top of the page and not at the bottom.  
