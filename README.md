@@ -18,5 +18,5 @@ The three scenarios chosen for this task are:
 
 Wireframe | Wireflow
 --------- | --------
-Text | text
+![wireframe](Wireframe.jpeg) | ![wireflow](Wireflow.jpeg)
 ## Task 1
